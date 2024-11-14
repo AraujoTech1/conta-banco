@@ -7,7 +7,7 @@ Funcionalidades:
 - Realizar depósitos
 - Realizar saques
 
-## Linguagem
+## Tecnologia
 - JAVA 
 
 
