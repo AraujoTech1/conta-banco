@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Conta Banco</h1>
+<h1 align="center">Conta Banco</h1>
 
 ## Descrição dp Projeto
 Este é um projeto simples de um terminal bancário desenvolvido em Java. Ele permite que os usuários interajam com o sistema para verificar saldo, depositar e sacar dinheiro.
