@@ -3,15 +3,17 @@
 ## Descrição do Projeto
 Este é um projeto simples de um terminal bancário desenvolvido em Java. Ele permite que os usuários interajam com o sistema para verificar saldo, depositar e sacar dinheiro.
 
+## Tecnologias Utilizadas
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ## Funcionalidades do Projeto
 - Criar uma conta bancária
 - Verificar saldo
 - Realizar depósitos
 - Realizar saques
-
-## Tecnologias Utilizadas
-- **JAVA** 
-- **Git**
   
 ## Teste
 ![Execução](https://github.com/AraujoTech1/conta-banco/blob/main/Captura%20de%20tela%202024-11-10%20151147.png)
